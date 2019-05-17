@@ -129,8 +129,7 @@ div,h1,h2,h3,h4,p,b,i,em,img,ul,li,ol {
     float: left;
 }
 .left-part .intro,.team,.idea{
-	position: relative;
-
+    position: relative;
 }
 .left-part dt{
 	font-size: 18px;
@@ -160,19 +159,20 @@ div,h1,h2,h3,h4,p,b,i,em,img,ul,li,ol {
 	background-color: #31a462;
 }
 .mainPart-2 .left-part .icon1{
-	background:url(../img/icon11.png) no-repeat center;
+    background:url(../img/icon11.png) no-repeat center;
+    display: block;
 	top:-2px;
 }
-.mainPart-2 .left-part .icon1{
-	background:url(../img/icon2.png) no-repeat center;
+.mainPart-2 .left-part .icon2{
+    background:url(../img/icon2.png) no-repeat center;
+    display: block;
 	top:-2px;
 }
-.mainPart-2 .left-part .icon1{
-	background:url(../img/icon3.png) no-repeat center;
+.mainPart-2 .left-part .icon3{
+    background:url(../img/icon3.png) no-repeat center;
+    display: block;
 	top:-2px;
 }
-
-
 
 
 
